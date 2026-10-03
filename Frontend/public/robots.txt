@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://honey-azure.vercel.app/sitemap.xml
